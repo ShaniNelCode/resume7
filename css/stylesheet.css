@@ -16,6 +16,9 @@ body {
 .content {
     background-color: #CAF0F8;
     padding: 20px;
+    background-image: url("/images/backgroundImage.jpg");
+    background-color: #90D8F4;
+    background-repeat: repeat-x;
 }
 
 
