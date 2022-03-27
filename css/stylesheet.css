@@ -104,20 +104,23 @@ footer {
     padding: 0%;
 }
 
-
-/*Icon and text for Gmail contact information*/
-
-#gmailContact {
-    width: 100%;
-    margin: 4rem;
-    height: 100%;
+.icons {
+    font-size: 50px;
 }
 
+.fa-google {
+    color: red;
+}
 
-/*Icon and text for WhatsApp contact information*/
+.fa-whatsapp {
+    color: green;
+}
 
-#whatsappContact {
-    width: 100%;
-    margin: 3rem;
-    height: 100%;
+.fa-telegram {
+    color: blue
+}
+
+.icons :hover {
+    cursor: pointer;
+    color: darkslategrey;
 }
