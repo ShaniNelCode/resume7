@@ -33,9 +33,9 @@ body {
 
 /*An Id selector for a single element-my profile photo within my HTML header tag*/
 
-#profilePhoto {
-    width: 20%;
-    height: 20%;
+#profileLarge {
+    width: 25%;
+    height: 25%;
     border-radius: 50%;
     border: 6px solid #90D8F4;
     /*Sets a border around my profile photo within the header element*/
@@ -57,6 +57,7 @@ header {
     font-size: 130%;
     background-color: #83C5BE;
     color: black;
+    padding-top: 10px;
 }
 
 
